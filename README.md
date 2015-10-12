@@ -1,7 +1,5 @@
 # Lektionsmaterial om testning, 2015-10-08
 
-**OBS! Tentativ data**
-
 ## Introduktion 
 
 Uppgiften går ut på att ta fram testfall för det
@@ -166,7 +164,7 @@ A \ {} = A
 ## Steg 1: Ladda ned materialet vi skall jobba med
 
 ```
-$ git clone https://XXX
+$ git clone https://github.com/IOOPM-UU/lektion3-testing.git
 ```
 
 ## Steg 2: Bygg programmet
