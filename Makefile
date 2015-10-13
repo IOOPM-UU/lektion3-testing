@@ -16,3 +16,5 @@ tree.o:	tree.c
 
 clean:
 	rm -rf *.o set test test.dSYM
+
+.PHONY: test
